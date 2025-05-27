@@ -1,9 +1,4 @@
-<p align="center">
-  <span>
-    <a href="https://github.com/akazwz/smail">English</a> | 
-    简体中文
-  </span>
-<p>
+
 <br />
 <p align="center">
   <a href="https://smail.pw" target="_blank" rel="noopener">
